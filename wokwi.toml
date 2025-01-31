@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/Temoprizador_periodico.hex'
+elf = 'build/Temoprizador_periodico.elf'
