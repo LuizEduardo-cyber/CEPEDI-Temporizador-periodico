@@ -81,7 +81,7 @@ bool repeating_timer_callback(struct repeating_timer *t){
 A função void LEDS(} tem como função usar como parâmetro o contador "a" e implementar condições para o controle de liga/desliga dos Leds. bool repeating_timer_callback() é uma interrupção que tem como função imprimir o contador e chamar a função LEDS() para ligar e desligar os leds do semaforo em um tempo definido e sicronizado com o contador.
 ## Diagrama de Conexões 💡:
 
-https://drive.google.com/file/d/1rqY8TJ9TkJIIXzbpE1sPWosujgxAcQy6/view?usp=drive_link
+https://drive.google.com/file/d/1fIkALsgPSMxiD646PG9qovLS-zk9vxG5/view?usp=drivesdk
 
 ## Próximos Passos ➡️
 
