@@ -29,7 +29,7 @@ void LEDS(uint8_t digit){
 bool repeating_timer_callback(struct repeating_timer *t){
     static uint8_t a = 0;
 
-    printf("%d segundos \n",a+1);
+    printf("1 segundos \n");
     LEDS(a);
     a++;
     if(a>8){
