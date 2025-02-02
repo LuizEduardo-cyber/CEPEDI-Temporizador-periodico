@@ -4,6 +4,7 @@ Este projeto faz com que ascenda cada LED(vermeljo,verde e amarelo) periodicamen
 ## Hardware 🛠️
 
 - Microcontrolador RP2040 (Raspberry Pi Pico).
+- Resistores
 - 3 LED.
 
 ## Software 💻
